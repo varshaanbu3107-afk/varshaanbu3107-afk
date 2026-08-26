@@ -70,41 +70,39 @@ My current focus is developing strong software and AI engineering fundamentals w
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,java" height="60" />
 </p>
 
 ### Frontend & Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="60" />
 </p>
 
-### Databases & Data Analytics
+### Databases & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,mysql" height="55" />
-  <img src="https://skillicons.dev/icons?i=excel" height="55" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
 </p>
 
 ### AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,huggingface" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,huggingface" height="60" />
 </p>
 
 ### AI Engineering
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FAISS-6D28D9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-4C1D95?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-312E81?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/langchain/6D28D9" height="50" />
+  <img src="https://cdn.simpleicons.org/n8n/7C3AED" height="50" />
+  <img src="https://cdn.simpleicons.org/googlegemini/4C1D95" height="50" />
 </p>
 
 ### Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" height="60" />
 </p>
 
 
