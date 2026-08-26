@@ -1,23 +1,21 @@
 # 👩🏻‍💻 Varsani A.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:1e1b4b&height=220&section=header&text=VARSANI%20A.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering%20%7C%20Data%20Analytics&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:1E1B4B&height=220&section=header&text=VARSANI%20A.&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Analytics&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+software+systems;Engineering+data-driven+products;Python+%7C+SQL+%7C+AI%2FML+%7C+Automation;Turning+complex+problems+into+scalable+solutions">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+software+systems;Engineering+data-driven+products;Python+%7C+SQL+%7C+AI%2FML+%7C+Automation;Turning+complex+problems+into+scalable+solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+applications;Learning+Machine+Learning+and+Data+Science;Python+%7C+SQL+%7C+RAG+%7C+AI+Agents;Turning+problems+into+practical+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-9.10%2F10-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graduating-2027-4C1D95?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-9.10%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graduating-2027-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
@@ -45,24 +43,25 @@
 
 ## 🧠 About
 
-I am a **B.Tech Information Technology student** focused on building reliable software systems, intelligent applications, and data-driven products.
+I am a **B.Tech Information Technology student** graduating in 2027, focused on building practical solutions across **Python, SQL, Artificial Intelligence, Machine Learning, Data Analytics, and automation**.
 
-My engineering interests sit at the intersection of **Software Engineering, Artificial Intelligence, Machine Learning, Data Analytics, and Automation**. I enjoy taking a problem from its raw requirements through data processing, system design, implementation, validation, and deployment.
+I enjoy turning technical concepts into working projects — from analytical dashboards and SQL-based data exploration to **RAG pipelines, semantic search, AI agents, and automated customer-support workflows**.
 
-I build rather than only study — from analytical dashboards and automation workflows to AI-powered systems and retrieval-based applications.
+My current focus is developing strong software and AI engineering fundamentals while building projects that solve practical problems.
 
-My current engineering direction is centered around:
+### Core Interests
 
-- **Software Engineering** — writing maintainable, modular, production-oriented code
-- **AI / ML** — intelligent systems, RAG, embeddings, vector search, and AI agents
-- **Data Engineering & Analytics** — SQL, data cleaning, analysis, visualization, and dashboards
-- **Full-Stack Development** — connecting interfaces, APIs, databases, automation, and AI services
-- **Product Engineering** — designing solutions around real user and business problems
-- **Automation** — transforming repetitive workflows into intelligent systems
+* **Python Development** — problem solving, automation, scripting, and application development
+* **SQL & Databases** — queries, joins, subqueries, functions, grouping, and analytical functions
+* **AI / ML** — machine learning fundamentals, deep learning, NLP, and intelligent applications
+* **RAG Systems** — document ingestion, chunking, embeddings, retrieval, and evidence-based processing
+* **AI Agents** — planner, researcher, verifier, and decision-oriented workflows
+* **Data Analytics** — Excel dashboards, data analysis, KPIs, and business insights
+* **Automation** — workflow automation and AI-powered process optimization
 
 ### 🚀 Open To
 
-**AI Engineer Internships · Machine Learning Internships · Data Science Internships · Data Analyst Roles · Software Engineering Internships · AI/Automation Projects · Open Source Collaboration**
+**AI Engineer Internships · Machine Learning Internships · Data Science Internships · Data Analyst Roles · Software Engineering Internships · AI Automation Projects · Open Source Collaboration**
 
 ---
 
@@ -71,112 +70,171 @@ My current engineering direction is centered around:
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Database%20Querying-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
 </p>
 
-### Backend & Databases
+### Databases & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,mysql,oracle" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-Database%20Development-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Data%20Analytics-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### Cloud, DevOps & Tooling
+### AI / ML & Data Science
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Embeddings-4C1D95?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Workflows-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-AI%20Automation-6D28D9?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### Development & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Python for AI / Data | Advanced | Data processing, automation, problem solving, scripting |
-| SQL & Data Analysis | Advanced | Joins, subqueries, aggregations, analytical functions, data extraction |
-| Machine Learning | Intermediate | ML fundamentals, model workflows, feature-oriented problem solving |
-| Deep Learning | Intermediate | Neural-network concepts and practical experimentation |
-| RAG Systems | Intermediate | Document ingestion, chunking, embeddings, retrieval, FAISS |
-| Vector Search | Intermediate | Embedding generation, similarity retrieval, persistent vector stores |
-| AI Agents | Intermediate | Planner, researcher, verifier, decision-oriented agent workflows |
-| AI Automation | Intermediate | Intelligent workflow design, classification, routing, escalation |
-| NLP | Intermediate | Text processing, classification, semantic retrieval |
-| Data Visualization | Advanced | Excel dashboards, PivotTables, PivotCharts, slicers, analytical reporting |
-| AI Engineering | Developing | End-to-end AI application architecture and production-oriented workflows |
+| Domain                  | Proficiency                   | Details                                                                     |
+| ----------------------- | ----------------------------- | --------------------------------------------------------------------------- |
+| Python for AI & Data    | **Intermediate**              | Programming, automation, data processing, and problem solving               |
+| SQL & Database Querying | **Intermediate–Strong**       | Joins, subqueries, aggregation, functions, self joins, and window functions |
+| Data Analytics          | **Intermediate**              | Data exploration, KPI analysis, Excel dashboards, and business insights     |
+| Machine Learning        | **Foundational–Intermediate** | ML concepts and practical project development                               |
+| Deep Learning           | **Foundational**              | Neural-network concepts and practical experimentation                       |
+| RAG                     | **Intermediate**              | PDF ingestion, chunking, embeddings, retrieval, and evidence processing     |
+| FAISS / Vector Search   | **Intermediate**              | Semantic embeddings, similarity retrieval, and persistent vector stores     |
+| AI Agents               | **Intermediate**              | Planner, researcher, verifier, and decision workflow architecture           |
+| AI Automation           | **Intermediate**              | Workflow automation and intelligent customer-support processing             |
+| TensorFlow              | **Foundational**              | Deep-learning framework exposure and experimentation                        |
+| NLP                     | **Foundational–Intermediate** | Text processing and semantic retrieval concepts                             |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🤖 AI Customer Support Automation</strong></summary>
+<summary><strong>🤖 Agentic AI Research & Decision System</strong></summary>
 
-### AI Customer Support Automation
+### Agentic AI Research & Decision System
 
-AI-powered customer support workflow designed to automate the complete lifecycle of incoming customer requests.
+An AI research system combining **RAG, semantic search, evidence processing, verification, and agent-based decision workflows**.
 
-The system analyzes customer messages, identifies **category, priority, and sentiment**, determines the appropriate resolution path, escalates complex cases to human support, and records operational information for analytics.
+The system takes source documents, converts them into searchable representations, retrieves relevant evidence, evaluates evidence quality, and processes the information through specialized agents.
 
-| Metric | Details |
-|---|---|
-| **Stack** | n8n · AI · Workflow Automation · APIs · Data Analytics |
-| **Scale** | Multi-stage automated support workflow |
-| **Performance** | Automated classification and intelligent routing |
-| **Security** | Controlled workflow routing and escalation paths |
-| **Impact** | Reduces repetitive support operations and improves issue prioritization |
-| **Repository** | [AI-Customer-Support-Automation](https://github.com/varshaanbu3107-afk/AI-Customer-Support-Automation) |
+| Attribute       | Details                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | Python · Hugging Face · Sentence Transformers · FAISS · RAG · Gemini |
+| **Scale**       | 3 PDFs · 418 document chunks                                         |
+| **Performance** | Embedding-based semantic retrieval                                   |
+| **Security**    | Evidence verification and source-quality evaluation                  |
+| **Impact**      | Structures research into an evidence-driven decision workflow        |
+| **Repository**  | Project under active development                                     |
 
 ### Engineering Scope
 
-- Designed an automated customer support pipeline
-- Implemented request classification
-- Added sentiment and priority analysis
-- Created automated resolution paths
-- Added human escalation for complex cases
-- Structured workflow execution for maintainability
-- Connected operational data with analytics
-- Focused on reducing manual support workload
+* Built PDF document ingestion
+* Implemented document chunking
+* Generated sentence embeddings
+* Built FAISS vector search
+* Implemented persistent vector storage
+* Developed research retrieval
+* Built evidence extraction
+* Implemented evidence scoring
+* Added source-quality classification
+* Designed planner agent
+* Designed researcher agent
+* Designed verifier agent
+* Designed decision agent
+* Connected the pipeline through an orchestrator
 
-**Skills:** `n8n` `AI Automation` `Workflow Engineering` `APIs` `Data Analytics`
+**Skills:** `Python` `RAG` `FAISS` `Embeddings` `Hugging Face` `Gemini` `AI Agents` `Vector Search`
 
 </details>
 
 <details>
-<summary><strong>📊 Zepto Sales & Operations Analytics Dashboard</strong></summary>
+<summary><strong>🤖 AI Customer Support Automation</strong></summary>
 
-### Zepto Sales & Operations Analytics Dashboard
+### AI Customer Support Automation
 
-Interactive Excel analytics solution designed to evaluate sales performance, customer behavior, payment patterns, and delivery operations for a quick-commerce business.
+An AI-powered automation workflow designed to process customer support requests and route them through an automated support pipeline.
 
-The dashboard converts raw transactional data into business-focused KPIs and visual insights that can support operational decision-making.
+The workflow focuses on reducing repetitive manual processing by using AI-assisted classification, prioritization, routing, and escalation.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Microsoft Excel · PivotTables · PivotCharts · Slicers · Data Analysis |
-| **Scale** | Multi-dimensional sales and operations dataset |
-| **Performance** | Interactive dashboard with dynamic filtering |
-| **Security** | Structured workbook-based analytical workflow |
-| **Impact** | Identified a 16.3% order failure rate and highlighted high-risk payment methods |
-| **Repository** | [zepto-sales-analytics-dashboard](https://github.com/varshaanbu3107-afk/zepto-sales-analytics-dashboard) |
+| Attribute       | Details                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------ |
+| **Stack**       | n8n · AI Automation · Workflow Automation · APIs                                                       |
+| **Scale**       | Multi-stage automated support workflow                                                                 |
+| **Performance** | Automated request processing and routing                                                               |
+| **Security**    | Controlled routing and human escalation                                                                |
+| **Impact**      | Reduces repetitive support operations                                                                  |
+| **Repository**  | [AI-Customer-Support-Automation](https://github.com/varshaanbu3107-afk/AI-Customer-Support-Automation) |
 
 ### Engineering Scope
 
-- Cleaned and structured raw sales data
-- Built analytical KPIs
-- Developed interactive PivotTable reports
-- Created PivotChart visualizations
-- Implemented slicer-based exploration
-- Analyzed customer and order behavior
-- Investigated payment and delivery performance
-- Converted operational data into actionable insights
+* Designed an automated customer-support workflow
+* Implemented AI-assisted request classification
+* Added priority-based processing
+* Created automated routing
+* Added escalation paths
+* Structured workflow execution
+* Connected automation stages
+* Focused on reducing manual support effort
 
-**Skills:** `Excel` `Data Cleaning` `Data Analysis` `Data Visualization` `Dashboard Development`
+**Skills:** `n8n` `AI Automation` `Workflow Engineering` `APIs`
+
+</details>
+
+<details>
+<summary><strong>📊 Zepto Sales Analytics Dashboard</strong></summary>
+
+### Zepto Sales Analytics Dashboard
+
+Interactive Excel dashboard designed to analyze sales, customers, orders, payment methods, and delivery-related metrics for a quick-commerce dataset.
+
+The project transforms raw transactional information into interactive business insights using Excel analytics tools.
+
+| Attribute       | Details                                                                 |
+| --------------- | ----------------------------------------------------------------------- |
+| **Stack**       | Microsoft Excel · PivotTables · PivotCharts · Slicers                   |
+| **Scale**       | Multi-dimensional transactional dataset                                 |
+| **Performance** | Interactive filtering and dashboard analysis                            |
+| **Security**    | Structured workbook-based analysis                                      |
+| **Impact**      | Identified a 16.3% order failure rate and analyzed operational patterns |
+| **Repository**  | [Zepto Sales Dashboard](https://github.com/varshaanbu3107-afk)          |
+
+### Engineering Scope
+
+* Cleaned and structured raw data
+* Created analytical KPIs
+* Built PivotTables
+* Developed PivotCharts
+* Added interactive slicers
+* Analyzed customer behavior
+* Analyzed payment patterns
+* Investigated order performance
+* Converted transactional data into business insights
+
+**Skills:** `Excel` `Data Cleaning` `Data Analysis` `PivotTables` `PivotCharts` `Dashboard Development`
 
 </details>
 
@@ -185,68 +243,31 @@ The dashboard converts raw transactional data into business-focused KPIs and vis
 
 ### Superstore Sales Analytics Dashboard
 
-Interactive business intelligence dashboard analyzing sales, profit, orders, regions, and product categories.
+Interactive Excel dashboard developed to analyze sales, profit, orders, regions, and product categories.
 
-The project demonstrates the transformation of structured transactional data into an interactive reporting layer for business analysis.
+The project demonstrates practical data analysis and visualization using structured transactional data.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Microsoft Excel · PivotTables · PivotCharts · Slicers |
-| **Scale** | Multi-category sales and profit dataset |
-| **Performance** | Interactive filtering and dashboard exploration |
-| **Security** | Structured analytical workbook |
-| **Impact** | Enables regional, category, sales, and profitability analysis |
-| **Repository** | [superstore-sales-dashboard](https://github.com/varshaanbu3107-afk/superstore-sales-dashboard) |
-
-### Engineering Scope
-
-- Prepared transactional data for analysis
-- Built PivotTable-based analytical models
-- Created interactive PivotCharts
-- Added slicers for dynamic filtering
-- Analyzed regional performance
-- Compared category-level profitability
-- Designed a recruiter-ready analytics dashboard
-
-**Skills:** `Excel` `PivotTables` `PivotCharts` `Data Analysis` `Business Intelligence`
-
-</details>
-
-<details>
-<summary><strong>🧠 Agentic AI Research & Decision System</strong></summary>
-
-### Agentic AI Research & Decision System
-
-An AI engineering project combining **Retrieval-Augmented Generation, semantic search, evidence extraction, verification, and decision-making agents** into a structured research pipeline.
-
-The architecture is designed around modular stages that transform source documents into retrievable evidence and then process that evidence through planning, research, verification, and decision components.
-
-| Metric | Details |
-|---|---|
-| **Stack** | Python · RAG · FAISS · Sentence Transformers · Hugging Face · Gemini · Agent Architecture |
-| **Scale** | 3 PDFs · 418 indexed chunks · Persistent vector store |
-| **Performance** | Semantic retrieval with embedding-based similarity search |
-| **Security** | Evidence-oriented verification and source-quality evaluation |
-| **Impact** | Automates structured research and evidence-based decision workflows |
-| **Repository** | Project under active development |
+| Attribute       | Details                                                       |
+| --------------- | ------------------------------------------------------------- |
+| **Stack**       | Microsoft Excel · PivotTables · PivotCharts · Slicers         |
+| **Scale**       | Multi-category sales dataset                                  |
+| **Performance** | Interactive dashboard filtering                               |
+| **Security**    | Structured analytical workbook                                |
+| **Impact**      | Enables sales, regional, category, and profitability analysis |
+| **Repository**  | [Superstore Dashboard](https://github.com/varshaanbu3107-afk) |
 
 ### Engineering Scope
 
-- Built PDF ingestion pipeline
-- Implemented document chunking
-- Generated semantic embeddings
-- Created FAISS vector index
-- Implemented persistent vector storage
-- Developed research retrieval pipeline
-- Built evidence extraction and scoring
-- Added source-quality classification
-- Designed planner agent
-- Designed researcher agent
-- Designed verifier agent
-- Designed decision agent
-- Connected modules through a central orchestrator
+* Prepared transactional data
+* Created PivotTable analysis
+* Built interactive charts
+* Added slicers
+* Analyzed regional performance
+* Compared category performance
+* Evaluated sales and profitability
+* Designed an interactive business dashboard
 
-**Skills:** `Python` `RAG` `FAISS` `Embeddings` `Hugging Face` `Gemini` `AI Agents` `Vector Search`
+**Skills:** `Excel` `Data Analysis` `Data Visualization` `PivotTables` `Business Intelligence`
 
 </details>
 
@@ -258,20 +279,21 @@ The architecture is designed around modular stages that transform source documen
 
 **2026 · Internship**
 
-Working on practical data science and analytics workflows while strengthening foundations in SQL, Python, databases, and real-world data processing.
+Developing practical skills in **Python, SQL, databases, and data analysis** through structured technical training and hands-on problem solving.
 
 #### Scope of Work
 
-- Develop SQL queries for structured data analysis
-- Work with joins, subqueries, aggregation, and analytical functions
-- Practice data extraction and transformation
-- Apply Python programming to analytical problems
-- Work with relational database concepts
-- Develop stronger foundations in data science workflows
-- Translate business requirements into analytical queries
-- Practice solving real-world data problems
+* Practice SQL querying and data retrieval
+* Work with joins and subqueries
+* Practice aggregate and analytical functions
+* Work with self joins and window functions
+* Strengthen Oracle SQL fundamentals
+* Apply Python programming to problem solving
+* Practice database concepts
+* Develop data-analysis foundations
+* Solve structured programming and SQL problems
 
-**Skills:** `Python` `SQL` `Oracle SQL` `Data Analysis` `Databases` `Problem Solving`
+**Skills:** `Python` `SQL` `Oracle SQL` `Data Analysis` `DBMS` `Problem Solving`
 
 ---
 
@@ -279,14 +301,13 @@ Working on practical data science and analytics workflows while strengthening fo
 
 <p align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎓 **Academic Excellence** | Maintained a **9.10/10 CGPA** in B.Tech Information Technology |
-| 🏛️ **College President** | Led student initiatives and coordinated activities across student and faculty groups |
-| 💻 **SQL Practice** | Practiced **400+ SQL queries** covering joins, subqueries, functions, grouping, and CRUD |
-| 🤖 **AI Engineering** | Built practical AI automation and RAG-oriented systems |
-| 📊 **Analytics Portfolio** | Developed interactive Excel dashboards for real-world business scenarios |
-| 🚀 **Project-Based Learning** | Consistently converts technical concepts into working projects |
+| Recognition                    | Details                                                                                                |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| 🎓 **Academic Excellence**     | Maintained a **9.10/10 CGPA** in B.Tech Information Technology                                         |
+| 💻 **SQL Practice**            | Practiced **400+ SQL queries** across joins, subqueries, functions, grouping, and analytical functions |
+| 🤖 **AI Engineering Projects** | Built practical RAG, vector-search, agentic AI, and automation projects                                |
+| 📊 **Analytics Portfolio**     | Developed interactive Excel dashboards for business-analysis scenarios                                 |
+| 🚀 **Project-Based Learning**  | Consistently converts technical concepts into practical projects                                       |
 
 </p>
 
@@ -294,36 +315,13 @@ Working on practical data science and analytics workflows while strengthening fo
 
 ## 📜 Certifications
 
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-AI%20%26%20Cloud%20Learning-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-March%202025-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-February%202025-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-SQL%20%26%20Database%20Learning-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-312E81?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Technology%20Learning-1E1B4B?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-### Additional Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2025-6D28D9?style=flat-square&logo=artificialintelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-2025-7C3AED?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Innovation%20Workshop-2025-4C1D95?style=flat-square&logo=google&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Powered%20Multidisciplinary%20Innovation%20Workshop-March%202025-4C1D95?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
@@ -331,23 +329,9 @@ Working on practical data science and analytics workflows while strengthening fo
 ## 💻 Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=22C55E" />
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
+  <img src="https://img.shields.io/badge/Python-Programming-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Problem%20Solving-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -360,7 +344,7 @@ Working on practical data science and analytics workflows while strengthening fo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaanbu3107-afk&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaanbu3107-afk&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180" />
 </p>
 
 ---
@@ -391,7 +375,7 @@ Working on practical data science and analytics workflows while strengthening fo
 
 ## 🎯 Current Focus
 
-```yaml`
+```yaml
 Learning:
   - Advanced Python
   - Advanced SQL & Database Systems
@@ -404,18 +388,16 @@ Learning:
 
 Building:
   - AI-powered automation systems
-  - Retrieval-Augmented Generation applications
+  - RAG applications
   - Agentic AI systems
   - Data analytics dashboards
-  - Production-oriented Python projects
+  - Python projects
 
 Exploring:
   - Generative AI
   - AI Agents
-  - LangGraph
   - Vector Databases
-  - Cloud Engineering
-  - MLOps
+  - AI Application Development
   - Full-Stack AI Applications
 
 Open To:
@@ -425,3 +407,30 @@ Open To:
   - Data Analyst Opportunities
   - Software Engineering Internships
   - Open Source Collaboration
+```
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:varshaanbu3107@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/varsani-a-323a8434a/">
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/varshaanbu3107-afk">
+    <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>“Build with purpose. Learn relentlessly. Engineer solutions that matter.”</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:312E81&height=140&section=footer&animation=fadeIn" width="100%" />
+</p>
