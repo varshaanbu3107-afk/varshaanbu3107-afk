@@ -332,43 +332,6 @@ Developing practical skills in **Python, SQL, databases, and data analysis** thr
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshaanbu3107-afk&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshaanbu3107-afk&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaanbu3107-afk&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshaanbu3107-afk&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshaanbu3107-afk&bg_color=0D0B1F&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varshaanbu3107-afk/varshaanbu3107-afk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
