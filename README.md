@@ -1,27 +1,36 @@
+<div align="center">
+
 # Hi, I'm Varsani 👋
 
-### Aspiring Data & Automation Professional | B.Tech IT
+### Aspiring Data & Automation Professional | B.Tech Information Technology
 
-I build practical solutions using **Data Analytics, Business Intelligence, AI workflows, and automation**. My focus is on turning data into useful insights and building systems that help solve real-world business problems.
+Turning **data into insights** and building **AI-powered automation solutions** for real-world business problems.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<br/><br/>
+
+**Data Analytics • Business Intelligence • AI Automation**
+
+</div>
+
+---
 
 ## 🎯 Career Focus
 
-I'm currently interested in opportunities related to:
+I'm interested in opportunities where I can combine **data, analytics, automation, and AI** to solve practical business problems.
 
-* Data Analytics
-* Business Intelligence
-* Data & AI Automation
-* Entry-Level Automation / RPA Roles
+**Areas of interest:**
 
-## 🛠️ Skills & Tools
+`Data Analyst` · `Business Intelligence Analyst` · `Data & AI Automation` · `Automation / RPA`
 
-**Data & Analytics:** SQL · Microsoft Excel · Power BI · Data Cleaning · Data Visualization · Dashboard Development
-
-**Programming:** Python · SQL
-
-**AI & Automation:** n8n · AI Workflows · LLM Applications · Agentic AI · Workflow Automation
-
-**Tools:** Git · GitHub · Jupyter Notebook · VS Code
+---
 
 ## 🚀 Featured Projects
 
@@ -29,62 +38,110 @@ I'm currently interested in opportunities related to:
 
 A multi-agent AI system designed to transform research questions into **evidence-backed and verifiable decisions**.
 
-**Key components include:**
+**Highlights:**
 
-* Research and planning agents
-* Decision-making workflows
-* RAG-based knowledge retrieval
-* API-based orchestration
-* Structured evaluation and testing
+- Multi-agent research and planning workflow
+- RAG-based knowledge retrieval
+- Evidence-backed decision-making
+- API-based orchestration
+- Structured evaluation and testing
 
----
+**Tech:** `Python` · `LLM Agents` · `RAG` · `FAISS`
 
-### 🤖 AI Customer Support Automation
-
-An AI-powered automation workflow built using **n8n** to streamline customer support operations.
-
-The workflow is designed to:
-
-* Classify incoming customer requests
-* Identify priority and sentiment
-* Route routine queries for automated handling
-* Escalate complex or high-priority cases to human support teams
+🔗 [View Project Repository →](https://github.com/varshaanbu3107-afk/agentic-ai-research-decision-system)
 
 ---
 
-### 📊 Zepto Sales & Operations Analytics Dashboard
+### 🎧 [AI Customer Support Automation](https://github.com/varshaanbu3107-afk/AI-Customer-Support-Automation)
 
-An interactive Excel dashboard created to analyze sales and operational performance in a quick-commerce business context.
+An AI-powered workflow built with **n8n** to automate customer support request handling.
 
-**Focus areas:**
+**Highlights:**
 
-* Sales performance analysis
-* Operational insights
-* Interactive filtering
-* PivotTables and PivotCharts
+- AI-based request classification
+- Priority and sentiment analysis
+- Automated handling of routine queries
+- Human escalation for complex requests
+- Support data logging and analytics
+
+**Tech:** `n8n` · `AI / LLM` · `Google Sheets` · `Microsoft Excel` · `Webhooks`
+
+🔗 [View Project Repository →](https://github.com/varshaanbu3107-afk/AI-Customer-Support-Automation)
 
 ---
 
-### 📈 Superstore Sales Analytics Dashboard
+### 📊 [Zepto Sales & Operations Analytics Dashboard](https://github.com/varshaanbu3107-afk/zepto-sales-analytics-dashboard)
+
+An interactive Excel dashboard analyzing sales, customer behavior, and delivery performance for a quick-commerce business.
+
+**Highlights:**
+
+- Sales performance analysis
+- Customer and operational insights
+- Delivery performance monitoring
+- Interactive filtering
+- PivotTables and PivotCharts
+
+**Tech:** `Microsoft Excel` · `PivotTables` · `PivotCharts` · `Slicers`
+
+🔗 [View Project Repository →](https://github.com/varshaanbu3107-afk/zepto-sales-analytics-dashboard)
+
+---
+
+### 📈 [Superstore Sales Analytics Dashboard](https://github.com/varshaanbu3107-afk/superstore-sales-dashboard)
 
 A business analytics dashboard focused on understanding sales and profit performance across regions and categories.
 
-**Focus areas:**
+**Highlights:**
 
-* Sales and profit analysis
-* Regional performance
-* Category-level insights
-* Interactive filtering and visualization
+- Sales and profit analysis
+- Regional performance insights
+- Category-level analysis
+- Interactive dashboard reporting
+- Business trend identification
 
-## 📚 Currently Exploring
+**Tech:** `Microsoft Excel` · `PivotTables` · `PivotCharts` · `Data Visualization`
 
-* Advanced SQL
-* Python for Data Analysis
-* Advanced Power BI
-* Agentic AI Systems
-* RAG Applications
-* Workflow Automation
+🔗 [View Project Repository →](https://github.com/varshaanbu3107-afk/superstore-sales-dashboard)
 
-## 📫 Connect With Me
+---
 
-Feel free to explore my repositories and connect with me through GitHub.
+## 🛠️ Skills & Tools
+
+| Area | Skills |
+|---|---|
+| 📊 **Data Analytics & BI** | SQL, Power BI, Microsoft Excel, Data Cleaning, Data Visualization, Dashboard Development |
+| 💻 **Programming** | Python, SQL |
+| 🤖 **AI & Automation** | n8n, AI Workflows, LLM Applications, Agentic AI, RAG, Workflow Automation |
+| 🔧 **Tools** | Git, GitHub, Jupyter Notebook, VS Code |
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Advanced Power BI
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- AI Workflow Automation
+
+---
+
+## 💡 What I'm Building
+
+I enjoy building projects at the intersection of:
+
+**Data → Analytics → Automation → Artificial Intelligence**
+
+My goal is to create practical solutions that help organizations **make better decisions, discover useful insights, and automate repetitive processes**.
+
+---
+
+<div align="center">
+
+### ⭐ Explore my repositories and projects
+
+**Building with Data • Automation • AI**
+
+</div>
